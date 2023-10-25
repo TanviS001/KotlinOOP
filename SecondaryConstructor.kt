@@ -16,8 +16,8 @@ fun main() {
     var mySecondCar = Car("Ford", 2019)
     var myThirdCar = Car("Lamborghini", 2015)
     
-    println("My first car is ${myFirstCar.name} and it is ${myFirstCar.model} model")
-    println("My second car is ${mySecondCar.name} and it is ${mySecondCar.model} model")
-    println("My third car is ${myThirdCar.name} and it is ${myThirdCar.model} model")
+    println("My first car is ${myFirstCar.name} and it is ${myFirstCar.model} model 😀")
+    println("My second car is ${mySecondCar.name} and it is ${mySecondCar.model} model 😀")
+    println("My third car is ${myThirdCar.name} and it is ${myThirdCar.model} model 😀")
 
 }
