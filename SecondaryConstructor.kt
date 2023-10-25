@@ -1,6 +1,6 @@
 //Implementing secondary constructor
 
-open class Car{
+class Car{
     var name: String? = null
     var model: Int? = null
     
