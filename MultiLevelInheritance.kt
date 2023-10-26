@@ -1,4 +1,4 @@
-// Super Class
+// Super Class : Level 1
 open class Vehicle{
     
     fun start(){
@@ -15,7 +15,7 @@ open class Vehicle{
     
 }
 
-//Sub Class
+//Sub Class : Level 2
 open class Car: Vehicle(){
     
     open override fun run(){
@@ -23,6 +23,8 @@ open class Car: Vehicle(){
     }
     
 }
+
+//Sub CLass : Level 3
 class Mercedes: Car(){
     
     override fun run(){
