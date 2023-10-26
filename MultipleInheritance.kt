@@ -15,7 +15,7 @@ open class Vehicle{
     
 }
 
-//Sub Class
+//Sub Class 1
 open class Car: Vehicle(){
     
     open override fun run(){
@@ -23,6 +23,8 @@ open class Car: Vehicle(){
     }
     
 }
+
+//Sub class 2
 class Mercedes: Vehicle(){
     
     override fun run(){
