@@ -11,7 +11,7 @@ By dividing our project into classes, we can take advantage of these classes to 
 # What is inheritance?
 Inheritance comes into play when we have more than two classes and one (or many) of the classes acts like 'parent or superclass' and the other one (or many) acts like 'subclass'. 
 Superclass is generalized class and subclass is specialized class.
-![image](https://github.com/TanviS3000/KotlinOOPConcepts/assets/145559687/09a7f0b7-6dc0-4080-bca2-0486a7827527)
+![image](https://github.com/TanviS3000/KotlinOOPConcepts/assets/145559687/268fa5d9-c75b-40db-b95a-e8ee6aea3ee0)
 
 # What is polymorphism?
 Polymorphism in Kotlin means that objects of different classes can be treated as objects of a common superclass. 
